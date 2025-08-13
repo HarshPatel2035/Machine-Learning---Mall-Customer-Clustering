@@ -1,4 +1,4 @@
-# 🛍 Mall Customer Segmentation – Machine Learning Project
+# 🛍 Mall Customer Segmentation (Clustering) – Machine Learning Project
 
 ## 📌 Overview
 This project performs **customer segmentation** for a mall using clustering techniques.  
